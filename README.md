@@ -55,7 +55,7 @@
   <a href="https://t.me/YOUR-TELEGRAM">
     <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="https://wa.me/YOUR-WHATSAPP-NUMBER">
+  <a href="https://wa.me/085258077564">
     <img src="https://img.shields.io/badge/WhatsApp-25D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>

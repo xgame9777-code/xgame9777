@@ -11,6 +11,35 @@
 
 ---
 
+<!-- 🚨 PILIH SALAH SATU GARIS NEON DI BAWAH INI -->
+<!-- 1. Garis Neon Hijau Statis -->
+<p align="center">
+  <img src="https://i.ibb.co/RYW7wCx/neon-line.png" width="80%" />
+</p>
+
+<!-- 2. Garis Neon Bergerak -->
+<!--
+<p align="center">
+  <img src="https://i.imgur.com/WZ4vC9v.gif" width="80%" />
+</p>
+-->
+
+<!-- 3. Garis Neon Glitch -->
+<!--
+<p align="center">
+  <img src="https://i.imgur.com/8kB1rOj.gif" width="80%" />
+</p>
+-->
+
+<!-- 4. Garis Neon Gradient -->
+<!--
+<p align="center">
+  <img src="https://i.imgur.com/3ZQ3Z5D.gif" width="80%" />
+</p>
+-->
+
+---
+
 ### 🛠️ Tech Arsenal  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,python,mysql,linux,git,docker,vscode" />
@@ -38,8 +67,7 @@
 
 ---
 
-### ⚡ Quote of the Day
----
+### ⚡ Quote of the Day---
 
 ### 🌐 Connect with Me  
 <p align="center">
@@ -55,7 +83,7 @@
   <a href="https://t.me/YOUR-TELEGRAM">
     <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="https://wa.me/+6285258077564">
+  <a href="https://wa.me/YOUR-WHATSAPP-NUMBER">
     <img src="https://img.shields.io/badge/WhatsApp-25D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>

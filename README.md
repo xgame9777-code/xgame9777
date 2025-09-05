@@ -17,7 +17,7 @@ Saya seorang [profesi atau hobi, misal: Software Developer, Data Scientist, dsb]
 <!-- Tambahkan sesuai kebutuhan -->
 
 ## 📈 Statistik GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 ---
 

@@ -2,7 +2,7 @@
 
 Saya seorang [ Software Developer, Cyber scurity, dsb] yang suka membuat proyek-proyek menarik dan belajar teknologi baru.
 
-## 🚀 Tentang Saya
+##  Tentang Saya
 - 🔭 Sedang mengerjakan: [Portofolio di sela kegabutan ku]
 - 🌱 Sedang belajar: [Teknologi baru yang sedang dipelajari]
 - 📫 Hubungi saya di: [Email atau sosial media]

@@ -1,14 +1,11 @@
-# Halo, saya [Nama Kamu] 👋
+# Hallo Semuanyaa 👋
 
-Saya seorang [profesi atau hobi, misal: Software Developer, Data Scientist, dsb] yang suka membuat proyek-proyek menarik dan belajar teknologi baru.
+Saya seorang [ Software Developer, Cyber scurity, dsb] yang suka membuat proyek-proyek menarik dan belajar teknologi baru.
 
 ## 🚀 Tentang Saya
-- 🔭 Sedang mengerjakan: [Nama proyek atau teknologi]
+- 🔭 Sedang mengerjakan: [Portofolio di sela kegabutan ku]
 - 🌱 Sedang belajar: [Teknologi baru yang sedang dipelajari]
-- 👯 Ingin berkolaborasi di: [Jenis proyek]
-- 💬 Tanyakan saya tentang: [Topik yang kamu kuasai]
 - 📫 Hubungi saya di: [Email atau sosial media]
-- ⚡ Fakta menarik: [Fakta unik tentang kamu]
 
 ## 🛠️ Teknologi & Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)

@@ -21,4 +21,4 @@ Saya seorang [ Software Developer, Cyber scurity, dsb] yang suka membuat proyek-
 ![https://wa.me/qr/PF3OCV44WPWYD1](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 
 
-Terima kasih sudah mampir! 😊
+Terima kasih sudah mampir! 
